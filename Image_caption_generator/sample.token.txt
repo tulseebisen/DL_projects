@@ -1,0 +1,47 @@
+img01.jpg#0	boy in black jacket.
+img01.jpg#1	boy in black jacket looking curiously.
+img01.jpg#2	boy in black jacket standing near a tree.
+img02.jpg#0	3 players are playing basketball.
+img02.jpg#1	3 players ajumped high for basketball.
+img02.jpg#2	player in red jersy will grab the basketball.
+img03.jpg#0	There are 4 elephants.
+img03.jpg#1	There are 4 elephants in Savana grassland.
+img03.jpg#2	There is 1 baby elephant.
+img04.jpg#0	Two babies talkig to each other.
+img04.jpg#1	Two babies woar warm cloths.
+img04.jpg#2	Two babies are cute.
+img05.jpg#0	There is a luxury car.
+img05.jpg#1	There is a red colour luxury car.
+img05.jpg#2	There is a old model luxury car.
+img06.jpg#0	A girl climbing on the mountain.
+img06.jpg#1	A girl climbing .
+img06.jpg#2	A fearless girl climbing on a rockhill.
+img07.jpg#0	Its a swimming pool.
+img07.jpg#1	there are 6 people in swimming pool.
+img07.jpg#2	water is blue in swimming pool.
+img08.jpg#0	there is a beautiful lake.
+img08.jpg#1	there are some boats in a beautiful lake.
+img08.jpg#2	I thik this place is Kashmir.
+img09.jpg#0	there is a beautiful garden.
+img09.jpg#1	there are beautiful flowers in garden.
+img09.jpg#2	the garden is so colorful.
+img10.jpg#0	there is a train.
+img10.jpg#1	there is a train passsing through a vally.
+img10.jpg#2	a train taking turn.
+img11.jpg#0	there are 2 tigers.
+img11.jpg#1	Mother tigress is loving to her cub.
+img11.jpg#2	there are 2 tigers sittng peacefully.
+img12.jpg#0	Narendra Modi with bollywood stars.
+img12.jpg#1	Narendra Modi standing in center of bollywood stars.
+img12.jpg#2	Smiling faces of celebrity.
+img13.jpg#0	APJ Abdul Kalam ji.
+img13.jpg#1	APJ Abdul Kalam the Indian President.
+img13.jpg#2	childerens are meeting with APJ Abdul Kalam the former Indian President.
+img14.jpg#0	Symbols of India.
+img14.jpg#1	Lion,Peacock,Lotus.
+img14.jpg#2	Satyamev Jayate.
+img15.jpg#0	River of India.
+img15.jpg#1	River is beautiful.
+img15.jpg#2	beautiful scenary of river.
+
+
