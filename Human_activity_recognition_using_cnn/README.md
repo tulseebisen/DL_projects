@@ -15,4 +15,4 @@
 
 #### Human activity recognition, is a challenging time series classification task. It involves predicting the movement of a person based on sensor data and traditionally involves deep domain expertise and methods from signal processing to correctly engineer features from the raw data in order to fit a machine learning or Deep learning model or in other words you can call, it is a multiclass classification problem, for given a new datapoint we have to predict the Human Activity. And Each datapoint corresponds one of the 6 Activities.
 
-![Image](https:/https://camo.githubusercontent.com/c041235f7869dfe4fc743e80617de0cc3a7dcaef1570f835432c5692b066f466/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323030302f312a766a4d79467665665251624c697837574179514131772e706e67)
+![Image](	data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…KUArBpSgArNKUApSlAKUpQClKUApSlAKUpQClKUApSlAf/9k=)
