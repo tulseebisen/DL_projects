@@ -1,5 +1,5 @@
 # **Brain tumor classification using keras**
-In this dEEP learning project, we builT a classifier to detect the brain tumor (if any) from the MRI scan images. This is a binary classification problem.
+In this deep learning project, we built a classifier to detect the brain tumor (if any) from the MRI scan images. This is a binary classification problem.
 
 
 ### Dataset:[Dataset Link](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
