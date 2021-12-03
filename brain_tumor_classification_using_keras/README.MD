@@ -1,4 +1,4 @@
-# ** Brain tumor classification using keras **
+# **Brain tumor classification using keras**
 In this dEEP learning project, we builT a classifier to detect the brain tumor (if any) from the MRI scan images. This is a binary classification problem.
 
 
@@ -8,5 +8,7 @@ The images are split into two folders yes and no each containing images with and
 ### Our approach to building the classifier is discussed in the steps:
 
 1.Perform Exploratory Data Analysis (EDA) on brain tumor dataset
+
 2.Build a CNN model
+
 3.Train and Evaluate our model on the dataset
